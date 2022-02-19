@@ -36,3 +36,7 @@ header .logo img {
 header ul {
   display: flex;
 }
+
+header ul li {
+  list-style: none;
+}
