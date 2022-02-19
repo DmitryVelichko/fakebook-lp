@@ -10,5 +10,7 @@
 
 .main {
   position: relative;
-  background: linear-gradient(#fff, #fff 60%, #3b5998 60%, #3b5998 100%);
+  background: linear-gradient(120deg, #fff, #fff 62%, #3b5998 62%, #3b5998 100%);
+  min-height: 100vh;
+  padding: 0 100px;
 }
