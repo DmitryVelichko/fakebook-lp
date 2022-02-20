@@ -64,5 +64,10 @@ header ul li a.active {
   border-radius: 5px;
   padding: 10px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  text-decoration: none;
+}
 
+.app ion-icon {
+  margin-right: 10px;
+  font-size: 1.4em;
 }
