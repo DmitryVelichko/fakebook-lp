@@ -60,5 +60,9 @@ header ul li a.active {
   justify-content: center;
   align-items: center;
   background: #fff;
-  color: #3b5998
+  color: #3b5998;
+  border-radius: 5px;
+  padding: 10px;
+  
+
 }
