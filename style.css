@@ -59,4 +59,6 @@ header ul li a.active {
   display: flex;
   justify-content: center;
   align-items: center;
+  background: #fff;
+  color: #3b5998
 }
