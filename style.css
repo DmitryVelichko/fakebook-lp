@@ -121,3 +121,7 @@ header ul li a.active {
   margin: 5px 20px 5px 0;  
   border-radius: 5px;
 }
+
+.btn:hover {
+  background: #2d88ff;
+}
