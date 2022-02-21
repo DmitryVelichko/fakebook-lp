@@ -110,3 +110,8 @@ header ul li a.active {
   font-weight: 700;
   color:#333;
 }
+
+.btn {
+  background: #3b5998;
+  color: #fff;
+}
