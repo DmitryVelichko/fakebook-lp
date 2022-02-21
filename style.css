@@ -92,3 +92,7 @@ header ul li a.active {
 .contentBx .text {
   max-width: 800px;
 }
+
+.contentBx .text h2 {
+  font-size: 6em;
+}
