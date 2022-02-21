@@ -76,3 +76,8 @@ header ul li a.active {
   margin-right: 10px;
   font-size: 1.4em;
 }
+
+.contentBx {
+  width: 100%;
+display: flex;
+}
