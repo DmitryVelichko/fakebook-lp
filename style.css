@@ -95,4 +95,9 @@ header ul li a.active {
 
 .contentBx .text h2 {
   font-size: 6em;
+  color: #3b5998;
+}
+
+.contentBx .text p {
+  font-size: 1.1em;
 }
