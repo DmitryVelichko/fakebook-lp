@@ -103,3 +103,8 @@ header ul li a.active {
   color: #333;
   line-height: 1.8em;
 }
+
+.contentBx .text h4 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
