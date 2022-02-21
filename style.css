@@ -116,4 +116,6 @@ header ul li a.active {
   color: #fff;
   display: inline-flex;
   text-decoration: none;
+  padding: 10px 15px;
+  font-size: 1.1em;
 }
