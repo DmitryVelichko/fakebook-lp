@@ -100,4 +100,6 @@ header ul li a.active {
 
 .contentBx .text p {
   font-size: 1.1em;
+  color: #333;
+  line-height: 1.8em;
 }
