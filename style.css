@@ -114,4 +114,6 @@ header ul li a.active {
 .btn {
   background: #3b5998;
   color: #fff;
+  display: inline-flex;
+  text-decoration: none;
 }
