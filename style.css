@@ -125,3 +125,8 @@ header ul li a.active {
 .btn:hover {
   background: #2d88ff;
 }
+
+.btn ion-icon {
+  margin-right: 10px;
+  font-size: 1.4em;
+}
