@@ -87,6 +87,7 @@ header ul li a.active {
   width: 100%;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 .contentBx .text {
@@ -133,4 +134,6 @@ header ul li a.active {
 
 .imgBx img {
   margin-left: 50px;
+  max-width: 300px;
+  display: none;
 }
