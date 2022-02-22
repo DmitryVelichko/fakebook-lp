@@ -130,3 +130,7 @@ header ul li a.active {
   margin-right: 10px;
   font-size: 1.4em;
 }
+
+.imgBx img {
+  margin-left: 50px;
+}
