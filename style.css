@@ -137,3 +137,7 @@ header ul li a.active {
   max-width: 300px;
   display: none;
 }
+
+.imgBx img.active {
+  display: block;
+}
