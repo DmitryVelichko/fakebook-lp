@@ -142,3 +142,9 @@ header ul li a.active {
 .imgBx img.active {
   display: block;
 }
+
+.dots {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
