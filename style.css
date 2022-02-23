@@ -154,4 +154,7 @@ header ul li a.active {
 
 .dots .dot {
   position: relative;
+  width: 10px;
+  height: 30px;
+  
 }
