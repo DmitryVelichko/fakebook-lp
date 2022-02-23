@@ -149,4 +149,9 @@ header ul li a.active {
   transform: translateY(-50%);
   right: 80px;
   display: flex;
+  flex-direction: column;
+}
+
+.dots .dot {
+  position: relative;
 }
