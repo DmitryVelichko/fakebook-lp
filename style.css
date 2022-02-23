@@ -174,4 +174,9 @@ header ul li a.active {
 
 .sci li {
   list-style: none;
+  margin-right: 20px;
+}
+
+.sci li a {
+  font-size: 1.8em;
 }
