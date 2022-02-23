@@ -179,4 +179,9 @@ header ul li a.active {
 
 .sci li a {
   font-size: 1.8em;
+  color: #3b5998;
+}
+
+.sci li a:hover {
+  color: #2d88ff;
 }
