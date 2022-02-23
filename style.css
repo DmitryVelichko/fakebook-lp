@@ -159,6 +159,9 @@ header ul li a.active {
   background: rgba(255,255,255,0.25);
   display: inline-flex;
   margin: 5px;
-  border-radius: 30px;
   cursor: pointer;
+}
+
+.dots .dot.active {
+  background: #fff;
 }
