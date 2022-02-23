@@ -156,8 +156,9 @@ header ul li a.active {
   position: relative;
   width: 10px;
   height: 30px;
-  background: #fff;
+  background: rgba(255,255,255,0.25);
   display: inline-flex;
   margin: 5px;
+  border-radius: 30px;
   cursor: pointer;
 }
