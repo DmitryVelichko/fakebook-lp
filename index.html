@@ -64,6 +64,12 @@
                 slides[i].classList.add('active');
             }
         }
+
+        for (let j = 0; j < dots.length; j++) {
+            dots[j].addEventListener('click', function() {
+                setActive(j);
+            })
+        }
     </script>
 </body>
 </html>
