@@ -213,5 +213,8 @@ header ul li a.active {
     position: relative;
     top: initial;
     transform: none;
+    right: initial;
+    display: flex;
+    flex-direction: row;
   }
 }
