@@ -199,4 +199,8 @@ header ul li a.active {
   .app {
     display: none;
   }
+
+  .contentBx {
+    flex-direction: column-reverse;
+  }
 }
