@@ -208,4 +208,10 @@ header ul li a.active {
   .imgBx img {
     margin: 0;
   }
+
+  .dots {
+    position: relative;
+    top: initial;
+    transform: none;
+  }
 }
