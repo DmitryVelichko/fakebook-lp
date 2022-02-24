@@ -56,7 +56,14 @@
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
     <script>
         const slides = document.querySelectorAll('.slides');
+        console.log(slides)
         const dots = document.querySelectorAll('.dot');
+
+        function setActive(i) {
+            for (slide of slides) {
+                slides[i].classList.add('active');
+            }
+        }
     </script>
 </body>
 </html>
