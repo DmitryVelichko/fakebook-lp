@@ -202,5 +202,10 @@ header ul li a.active {
 
   .contentBx {
     flex-direction: column-reverse;
+    margin: 100px 0;
+  }
+
+  .imgBx img {
+    margin: 0;
   }
 }
