@@ -185,3 +185,9 @@ header ul li a.active {
 .sci li a:hover {
   color: #2d88ff;
 }
+
+@media (max-width: 991px) {
+  header {
+    padding: 30px;
+  }
+}
