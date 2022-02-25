@@ -228,5 +228,10 @@ header ul li a.active {
 
   .dots .dot.active {
     opacity: 1;
+    background: #3b5998;
+  }
+
+  .contentBx .text {
+    text-align: center;
   }
 }
