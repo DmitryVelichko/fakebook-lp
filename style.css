@@ -243,5 +243,6 @@ header ul li a.active {
     bottom: 30px;
     display: flex;
     left: 50%;
+    transform: translateX(-50%);
   }
 }
