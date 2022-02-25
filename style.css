@@ -241,5 +241,7 @@ header ul li a.active {
   .sci {
     position: absolute;
     bottom: 30px;
+    display: flex;
+    left: 50%;
   }
 }
