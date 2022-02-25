@@ -221,5 +221,7 @@ header ul li a.active {
 
   .dots .dot {
     width: 20px;
+    background: #3b5998;
+    height: 10px;
   }
 }
