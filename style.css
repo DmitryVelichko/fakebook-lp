@@ -223,5 +223,10 @@ header ul li a.active {
     width: 20px;
     background: #3b5998;
     height: 10px;
+    opacity: 0.2;
+  }
+
+  .dots .dot.active {
+    opacity: 1;
   }
 }
