@@ -216,5 +216,10 @@ header ul li a.active {
     right: initial;
     display: flex;
     flex-direction: row;
+    margin-top: 20px;
+  }
+
+  .dots .dot {
+    width: 20px;
   }
 }
