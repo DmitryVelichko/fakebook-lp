@@ -133,10 +133,11 @@ header ul li a.active {
 }
 
 .imgBx img {
-  margin-left: 50px;
+  margin-left: 80px;
   margin-right: 100px;
-  max-width: 300px;
+  min-width: 250px;
   display: none;
+  margin-top: 100px;
 }
 
 .imgBx img.active {
@@ -186,7 +187,14 @@ header ul li a.active {
   color: #2d88ff;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 1090px) {
+  .dots {
+    position: absolute;
+    right: 20px;
+  }
+}
+
+@media (max-width: 1015px) {
   header {
     padding: 30px;
   }
@@ -203,6 +211,10 @@ header ul li a.active {
   .contentBx {
     flex-direction: column-reverse;
     margin: 100px 0;
+  }
+
+  .contentBx .text p {
+    margin: 0;
   }
 
   .imgBx img {
