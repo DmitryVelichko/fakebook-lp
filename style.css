@@ -234,4 +234,8 @@ header ul li a.active {
   .contentBx .text {
     text-align: center;
   }
+  .contentBx .text h2 {
+    font-size: 3em;
+  }
+
 }
